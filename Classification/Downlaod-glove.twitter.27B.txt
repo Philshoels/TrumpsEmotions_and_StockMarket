@@ -1,0 +1,5 @@
+Download pre-trained word vector: https://nlp.stanford.edu/projects/glove/
+
+Use: twitter (2B tweets, 27B tokens, 1.2M vocab, uncased, 25d, 50d, 100d, & 200d vectors, 1.42 GB download): glove.twitter.27B.zip
+
+The pre-trained model is to larg to upload.
