@@ -1,0 +1,2 @@
+In order to use the Watson API, an account must be created. 
+The watson_api.json file in the labelling folder is empty. 
